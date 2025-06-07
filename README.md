@@ -65,30 +65,12 @@ To contribute:
 This project is open-source and available under the MIT License.
 
 📚 References & Resources
-Oracle Javadoc Guide
 
-Java Code Geeks - How to Write an Elegant README
+Oracle Javadoc Guide -https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html
 
-I’d Rather Be Writing - Documentation Guide
+Java Code Geeks - How to Write an Elegant README - https://www.javacodegeeks.com/
 
-GeeksforGeeks - Java Javadoc Tutorial
-
-yaml
-Copy code
-
----
-
-### ✅ What To Do Now:
-
-1. Go to GitHub and **paste this entire content into your `README.md` file**.
-2. Click **“Commit changes”**.
-3. Copy the link to the file:  
-   `https://github.com/khushiduggar/sample-java-readme/blob/main/README.md`
-4. In your article, link it like:  
-   > 📄 [View Sample Java Project README](https://github.com/khushiduggar/sample-java-readme/blob/main/README.md)
-
-Let me know when you've updated it — I’ll happily give it a final polish check if you want!
-
+I’d Rather Be Writing - Documentation Guide - https://idratherbewriting.com/
 
 
 
